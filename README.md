@@ -6,12 +6,12 @@ Purpose of instagram-privates.py:
 
 
 THINGS THAT MUST BE INSTALLED BEFOREHAND: 
-   Selenium 
-   Chrome webdriver
-   Python
+   Selenium,
+   Chrome webdriver,
+   Python,
    Time module
 
 THINGS TO CHANGE SO THE CODE WORKS: 
-   Username and Password. (Line 17-18)
-   Chromedriver directory (Line 14)
+   Username and Password. (Line 17-18),
+   Chromedriver directory (Line 14),
    Where you want the privateaccounts.txt to be saved (Line 73)
